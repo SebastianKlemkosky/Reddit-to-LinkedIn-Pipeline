@@ -44,6 +44,6 @@ def main():
     print("\n✍️ LinkedIn-ready content:\n")
     print(linkedin_post)
 
-
 if __name__ == "__main__":
     main()
+
