@@ -6,6 +6,7 @@ import json
 from datetime import datetime
 from pathlib import Path
 from utils import log_rewritten_post
+
 # Create the client
 client = OpenAI(api_key=config.CHATGPT_SECRET)
 
