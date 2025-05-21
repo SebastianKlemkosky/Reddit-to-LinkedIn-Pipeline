@@ -36,5 +36,11 @@ Your task is to rewrite this into a LinkedIn post that is appropriate for a prof
 - Add helpful context or a closing insight if the original post is minimal.
 - Write it as something the user might share to educate, reflect, or spark discussion in the tech community.
 
-The final output should be professional, readable, and LinkedIn-ready — even if the original post was short, edgy, or meme-like.
+The final output should be simple, short, professional, readable, and LinkedIn-ready — even if the original post was short, edgy, or meme-like.
+The final output should:
+- Be written in a neutral or third-person voice (not first-person)
+- Avoid implying personal experience or stories (e.g., “I,” “my job,” “a referral I got”)
+- Focus on professional insights, ideas, or reflection suitable for sharing in a professional feed
+
+Only return the final LinkedIn post content — do not introduce it or explain what you’re doing. Just the post, nothing else.
 """
