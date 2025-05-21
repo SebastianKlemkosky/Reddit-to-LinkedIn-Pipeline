@@ -49,4 +49,18 @@ If the original Reddit post is visual (e.g., a photo of a sign or a meme), inter
 
 Only return the final LinkedIn post content. Do not introduce it or explain what you’re doing. Just the post, nothing else.
 
+Occasionally vary the structure. For example:
+- Use a single structured paragraph without bullets
+- Use short headers followed by commentary
+- Use a relevant quote from tech culture or a founder (if appropriate)
+- Keep things concise — sometimes 3–5 sentences is enough
+
+The tone should always be professional, but can occasionally lean toward:
+- Analytical
+- Reflective
+- Lightly humorous (no memes)
+
+Avoid using the same structure every time.
+
+
 """

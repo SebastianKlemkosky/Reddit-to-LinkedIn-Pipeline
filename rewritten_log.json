@@ -94,5 +94,29 @@
     "input_tokens": 484,
     "output_tokens": 114,
     "cost_usd": 0.00413
+  },
+  {
+    "timestamp": "2025-05-21T19:04:44.060678",
+    "title": "anExcuseAnEntireGenerationOfProgrammersNeverGotToSay",
+    "text": "",
+    "rewritten": "In the ever-evolving world of programming, one humorous reflection stands out: \"An Excuse an Entire Generation of Programmers Never Got to Say.\" \n\nThe humor lies in the fact that as technology advances, so do the expectations and capabilities of developers. Today's software engineers often find themselves adapting to rapid changes, where excuses that might have been valid in the past are replaced by innovative solutions and agile thinking.\n\nThis highlights the resilience and adaptability required in the field, reminding us of the importance of continuous learning and embracing change in the tech industry. As we navigate this dynamic landscape, it's crucial to leverage every opportunity for growth and improvement.",
+    "image_url": "https://i.redd.it/oij7c37mq22f1.jpeg",
+    "external_url": "https://i.redd.it/oij7c37mq22f1.jpeg",
+    "reddit_url": "https://www.reddit.com/comments/1krqj6y",
+    "input_tokens": 584,
+    "output_tokens": 126,
+    "cost_usd": 0.00481
+  },
+  {
+    "timestamp": "2025-05-21T19:06:35.810583",
+    "title": "onMyResume",
+    "text": "",
+    "rewritten": "Adapting skills for the future is crucial in the ever-evolving tech industry. Here's a light-hearted yet insightful take:\n\n**On My Resume:**\n\n- Embrace diverse experiences: Highlight varied projects that showcase a range of skills and adaptability.\n- Continuous learning: Stay updated with the latest technologies and methodologies.\n- Problem-solving: Demonstrate a proactive approach to tackling challenges with innovative solutions.\n\nIn the fast-paced world of software development, being versatile and open to learning new skills can set you apart. Keep evolving!",
+    "image_url": "https://i.redd.it/dq2yjbvu142f1.png",
+    "external_url": "https://i.redd.it/dq2yjbvu142f1.png",
+    "reddit_url": "https://www.reddit.com/comments/1kruaia",
+    "input_tokens": 573,
+    "output_tokens": 103,
+    "cost_usd": 0.00441
   }
 ]
