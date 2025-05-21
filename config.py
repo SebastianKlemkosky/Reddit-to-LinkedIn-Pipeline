@@ -37,10 +37,16 @@ Your task is to rewrite this into a LinkedIn post that is appropriate for a prof
 - Write it as something the user might share to educate, reflect, or spark discussion in the tech community.
 
 The final output should be simple, short, professional, readable, and LinkedIn-ready — even if the original post was short, edgy, or meme-like.
-The final output should:
-- Be written in a neutral or third-person voice (not first-person)
-- Avoid implying personal experience or stories (e.g., “I,” “my job,” “a referral I got”)
-- Focus on professional insights, ideas, or reflection suitable for sharing in a professional feed
+The final output should be:
+- Professional and LinkedIn-ready
+- Written in a neutral or third-person voice
+- Free of personal anecdotes or first-person language
+- Focused on insight, not interaction (do not ask questions or prompt engagement)
 
-Only return the final LinkedIn post content — do not introduce it or explain what you’re doing. Just the post, nothing else.
+All content must be relevant to software engineering, computer science, programming, or technology culture. Do not generate content about unrelated business topics, workplace safety, general motivation, or personal development.
+
+If the original Reddit post is visual (e.g., a photo of a sign or a meme), interpret it metaphorically in the context of software development or tech culture. Do not take it literally (e.g., a fire exit sign should not result in fire drill advice). Keep all content relevant to programming, engineering, or IT.
+
+Only return the final LinkedIn post content. Do not introduce it or explain what you’re doing. Just the post, nothing else.
+
 """
